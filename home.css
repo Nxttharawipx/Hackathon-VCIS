@@ -1,14 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Mali&display=swap');
+
 body{
-    background-color: #789395;
-  }
-  .title{
-    color: #E5E3C9;
+    background-color: #EFEFEF;
+    font-family: 'Amatic SC', cursive;
+}
+.titleeng{
+    color: #4A403A;
+    font-family: 'Amatic SC', cursive;
     text-align: center;
-  }
-  .padhome{
-    background-color: #E5E3C9;
+    font-size: 45px;
+}
+.titleeng1{
+    color: #EFEFEF;
+    font-family: 'Amatic SC', cursive;
+    padding-left: 10px;
+    font-size: 35px;
+}
+.titlethai{
+    color: #4A403A;
+    font-family: 'Mali', cursive;
+}
+.titlethai1{
+    color: #EFEFEF;
+    font-family: 'Mali', cursive;
+    font-size: 15px;
+}
+.pad{
+    background-color: #556052;
     border-radius: 10px;
     padding: 50px;
     margin-bottom: 30px;
-  }
-  
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19)
+}
+.texteng{
+    color: #EFEFEF;
+    font-family: 'Amatic SC', cursive;
+    font-size: 19px;
+    padding-top: 20px;
+}
+.texteng1{
+    color: #EFEFEF;
+    font-family: 'Amatic SC', cursive;
+    font-size: 16px;
+}
+.textthai{
+    color: #EFEFEF;
+    font-family: 'Mali', cursive;
+    font-size: 10px;
+    padding-top: 10px;
+}
